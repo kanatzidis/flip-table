@@ -1,0 +1,19 @@
+{
+  "name": "flip-table",
+  "version": "0.0.0",
+  "description": "Rage quit animation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kanatzidis/flip-table"
+  },
+  "author": "Gregori Kanatzidis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kanatzidis/flip-table/issues"
+  },
+  "homepage": "https://github.com/kanatzidis/flip-table"
+}
